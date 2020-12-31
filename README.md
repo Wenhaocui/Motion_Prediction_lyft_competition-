@@ -35,13 +35,13 @@
             |
              - metric
 
-- notebook - train-cnn-nll.ipynb
+- notebook - train-baseline.ipynb
           |
-           - test-cnn.ipynb
+           - test-baseline.ipynb
 ```
 
 ## Detailed Report
-- Final report and presentation are provided under directory "report"
+- Final report and presentation are provided under directory "Report&Presentation"
 
 ## Lyft Prediction Dataset
 @misc{lyft2020,\
