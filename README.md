@@ -42,6 +42,7 @@
 
 ## Detailed Report
 - Final report and presentation are provided under directory "Report&Presentation"
+- Video link: https://www.youtube.com/watch?v=rl50fRlH5Cw
 
 ## Lyft Prediction Dataset
 @misc{lyft2020,\
